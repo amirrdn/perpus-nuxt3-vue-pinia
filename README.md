@@ -127,3 +127,5 @@ npm run dev
 | Parameter | Type     | Description                       |
 | :-------- | :------- | :-------------------------------- |
 | `user_ids`      | `array` | **Required**|
+
+Check out the [video demo](https://app.screencastify.com/v3/watch/yb8rqRmfsgFaukpax1jq) for more information.
